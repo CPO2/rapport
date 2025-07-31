@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scipy
+reportlab
+openpyxl
+streamlit
+ruptures
+pdfkit
+weasyprint
+fitparse
